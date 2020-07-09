@@ -1,0 +1,1 @@
+Execute "run.c" file.

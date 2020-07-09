@@ -1,0 +1,4 @@
+1 harddisk 2 14000
+2 television 2 400000
+3 candy 10 10
+4 hockeybat 1 5000
